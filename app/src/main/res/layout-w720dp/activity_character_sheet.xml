@@ -1,0 +1,64 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/light_background"
+        android:baselineAligned="false"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <fragment
+                android:id="@+id/basic_info_fragment"
+                android:name="eu.mrogalski.wolsung.BasicInfoFragment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:layout="@layout/base_description" />
+
+            <fragment
+                android:id="@+id/attributes_fragment"
+                android:name="eu.mrogalski.wolsung.AttributesFragment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:layout="@layout/attributes" />
+
+            <fragment
+                android:id="@+id/description_fragment"
+                android:name="eu.mrogalski.wolsung.DescriptionFragment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:layout="@layout/description" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <fragment
+                android:id="@+id/advantages_fragment"
+                android:name="eu.mrogalski.wolsung.AdvantagesFragment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:layout="@layout/advantages" />
+
+            <fragment
+                android:id="@+id/achievements_fragment"
+                android:name="eu.mrogalski.wolsung.AchievementsFragment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:layout="@layout/achievements" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

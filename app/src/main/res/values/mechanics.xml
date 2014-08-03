@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="skill_attributes">
+        <item>2</item>
+        <item>0</item>
+        <item>4</item>
+        <item>0</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>1</item>
+        <item>4</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+    </integer-array>
+    
+    <string name="default_wealth" translatable="false">3</string>
+    <string name="attribute_levels" translatable="false">10+ / 9+ / 8+</string>
+    
+</resources>

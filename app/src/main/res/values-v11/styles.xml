@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="WolsungTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionBarTabStyle">@style/WolsungTabPageIndicator</item>
+        <item name="actionBarTabStyle">@style/WolsungTabPageIndicator</item>
+        <item name="vpiTabPageIndicatorStyle">@style/WolsungTabPageIndicator</item>
+        <item name="android:actionBarStyle">@style/WolsungActionBar</item>
+        <item name="actionBarStyle">@style/WolsungActionBar</item>
+    </style>
+</resources>

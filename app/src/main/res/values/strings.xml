@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wolsung Differential Engine</string>
+
+    <string-array name="tabs">
+        <item>General</item>
+        <item>Skills</item>
+        <item>Edges</item>
+        <item>Achievements</item>
+        <item>Background</item>
+    </string-array>
+
+    <string-array name="nationalities">
+        <item>Aquitaine</item>
+        <item>Alfheim</item>
+        <item>Baventia</item>
+        <item>Silvanegro</item>
+        <item>Aeol</item>
+        <item>Hrimthorst</item>
+        <item>Jotunheim</item>
+        <item>Coriole</item>
+        <item>Morgovia</item>
+        <item>Holy Pontifical State</item>
+        <item>Sernenissima</item>
+        <item>Scylla and Charibdis</item>
+        <item>Slavia</item>
+        <item>Trimonarchy</item>
+        <item>Westria</item>
+        <item>Wotany</item>
+        <item>Ys</item>
+        <item>Atlantis</item>
+        <item>Lemuria</item>
+        <item>Sunnir</item>
+        <item>Vinland</item>
+    </string-array>
+
+    <string name="plus_minus" translatable="false">±</string>
+
+    <string-array name="races">
+        <item>Elf</item>
+        <item>Gnome</item>
+        <item>Dwarf</item>
+        <item>Human</item>
+        <item>Halfling</item>
+        <item>Ogre</item>
+        <item>Orc</item>
+        <item>Troll</item>
+    </string-array>
+
+    <string-array name="race_perks">
+        <item>Dancing with a blade| Dreams and nightmares| Elven grace| Hypnotic charm| Iron</item>
+        <item>Allegories and parables| Gnomish wise man| Numerologist| Secret runes| Mistrust</item>
+        <item>Cold logic| Darkness under mountains| Gadgeteer| Inspired mechanic| Sunlight</item>
+        <item>With the last breath| One of our own| Rich experience| Beginner’s luck| Curiosity killed the cat</item>
+        <item>City slicker| Elusive| Kith and kin| Superhuman reflexes| Tiny</item>
+        <item>Animal magnetism| Hard as nails| It\'s just an ogre| Strongman| Shyness</item>
+        <item>Honesty of the orcs| Mind\'s eye| Noble ancestors| Secret techniques of the Sunnirian masters| Stranger in a strange land</item>
+        <item>Heat up the atmosphere| Fiery passion| Fireproof| Word of honor| Fiery temper</item>
+    </string-array>
+
+    <string-array name="race_weaknesses">
+        <item>The greatest weakness of all elves is their vulnerability to iron. A rash and other symptoms of an allergy are caused by using iron tools or traveling in iron vehicles.</item>
+        <item>Althought gnomes have been living in Vanadia for centuries, they are still alien. They have their own customs, religion, knowledge and magic inaccessible for other races. Gnomes are reserved and usually stick together, so it isn\'t very surprising that people react to them with barely hidden mistrust.</item>
+        <item>Since the beginning of time dwarves have lived underground and led a mostly nocturnal lifestyle. Lack of eye whites, huge pupils, and a marble white complexion make functioning in daylight extremely difficult for them.</item>
+        <item>Humans are restless. They are curious about what lies beyond the horizon and want to know where every path leads. The call of the unknown tempts them all the time. This is why they can be easily talked into every madness if only one makes proper use of their in-born curiosity.</item>
+        <item>Hlaflings are famous for their great spirit, but it resides in a really small body. This can be an issue when facing brutal power, or when trying to reach a highly situated door handle.</item>
+        <item>It\'s hard to be an ogre in contemporary society. Many ogres grow up in orphanages not knowing their parents (or at least their mothers), but aware of their otherness and understand that society does not expect much of them. Even the more successful ogres have to live with their racial burden.</item>
+        <item>Orcs are strangers in Vanadia. Even if they were born there, some nuances of Vanadian culture still remain incomprehensible for them.</item>
+        <item>Trolls are easily provoked.</item>
+    </string-array>
+
+    <string-array name="sexes">
+        <item>Gentelman</item>
+        <item>Lady</item>
+    </string-array>
+
+    <string-array name="archetypes">
+        <item>Explorer</item>
+        <item>Daredevil</item>
+        <item>Socialite</item>
+        <item>Investigator</item>
+    </string-array>
+
+    <string-array name="archetype_cards">
+        <item>&lt;b&gt;spades&lt;/b&gt; - &lt;i&gt;experience&lt;/i&gt;;circumstances that favor the more experienced hero, knowledge about monsters’ weaknesses and foreign customs.&lt;br&gt;&lt;b&gt;hearts&lt;/b&gt; - &lt;i&gt;survival&lt;/i&gt;; objects and circumstances that help to survive in an unfriendly environment, and to avoid physical harm or sickness.&lt;br&gt;&lt;b&gt;diamonds&lt;/b&gt; - &lt;i&gt;trophies&lt;/i&gt;; objects and achievements that help winning recognition – souvenirs, inventions, etc.&lt;br&gt;&lt;b&gt;clubs&lt;/b&gt; - &lt;i&gt;orientation&lt;/i&gt;;  objects and items that prevent you from getting lost, help to reach your destination, find lost objects, etc.</item>
+        <item>&lt;b&gt;spades&lt;/b&gt; - &lt;i&gt;distraction&lt;/i&gt;; objects and circumstances that help to distract your opponents, set an ambush, etc.&lt;br&gt;&lt;b&gt;hearts&lt;/b&gt; - &lt;i&gt;cover&lt;/i&gt;; objects and circumstances that help to hide something or to remain hidden.&lt;br&gt;&lt;b&gt;diamonds&lt;/b&gt; - &lt;i&gt;tools&lt;/i&gt;; means to pass a physical barrier, disarm a trap, pick a lock, etc.&lt;br&gt;&lt;b&gt;clubs&lt;/b&gt; - &lt;i&gt;transportation&lt;/i&gt;; objects and circumstances that allow you to move around the scene, vehicles, slides, alternative routes, etc.</item>
+        <item>&lt;b&gt;spades&lt;/b&gt; - &lt;i&gt;machinations&lt;/i&gt;; hearing and spreading gossip, tricking opponents into social blunders, contacts in the press, etc.&lt;br&gt;&lt;b&gt;hearts&lt;/b&gt; - &lt;i&gt;emotions&lt;/i&gt;; helpful kith and kin, weddings and funerals and other events of a social nature, a sudden surge of emotions or repressed feelings, etc.&lt;br&gt;&lt;b&gt;diamonds&lt;/b&gt; - &lt;i&gt;formalities&lt;/i&gt;; means and circumstances to avoid the red tape, helpful officers and policemen, useful business connections, etc.&lt;br&gt;&lt;b&gt;clubs&lt;/b&gt; - &lt;i&gt;entertainment&lt;/i&gt;; friends among the bohemians, connections and circumstances that help to enter public events, all that helps during public performances, etc.</item>
+        <item>&lt;b&gt;spades&lt;/b&gt; - &lt;i&gt;suspects&lt;/i&gt;; clues about someone’s occupation, nationality, background, whereabouts, character, past endeavors, motives and plans.&lt;br&gt;&lt;b&gt;hearts&lt;/b&gt; - &lt;i&gt;recognition&lt;/i&gt;; clues and circumstances that help to win the public attention, make a successful speech, face a danger without fear or in some other way use the hero’s esteem.&lt;br&gt;&lt;b&gt;diamonds&lt;/b&gt; - &lt;i&gt;objects&lt;/i&gt;; clues about inanimate objects and items, their history, unique features, circumstances that allow you to find hidden objects, etc.&lt;br&gt;&lt;b&gt;clubs&lt;/b&gt; - &lt;i&gt;circumstances&lt;/i&gt;; clues that allow you to deduct what happened on the scene, re-create the crime, get answers to questions: Where? When? How?</item>
+    </string-array>
+
+    <string-array name="professions">
+        <item>Special agent</item>
+        <item>Actor</item>
+        <item>Artist</item>
+        <item>Aristocrat/Noble</item>
+        <item>Antiquarian</item>
+        <item>Bon vivant</item>
+        <item>Detective</item>
+        <item>Cleric</item>
+        <item>Journalist</item>
+        <item>Hunter</item>
+        <item>Scientist</item>
+        <item>Traveler</item>
+        <item>Officer</item>
+        <item>Writer</item>
+        <item>Criminal</item>
+        <item>Ritualist</item>
+        <item>Spiritist</item>
+        <item>Sportsman</item>
+        <item>Technomancer</item>
+        <item>Gunslinger</item>
+    </string-array>
+
+    <string-array name="professions_prestige">
+        <item>Once per game session the character may regain a token if they gather information important for the organization they work for or take a huge risk in order to upset their opponents\' plans.</item>
+        <item>Once per game session the character may regain a token if they make use of their artistic skills in real life or please their fans (e.g. giving autographs or an interview).</item>
+        <item>Once per game session the character may regain a token if they experience something really inspiring (very different from everyday events) or trigger strong emotions in other people by their art or behavior.</item>
+        <item>Once per game session the character may regain a token if they gain an advantage over their political or business opponent or make a good impression thanks to their social status.</item>
+        <item>Once per game session the character may regain a token if they come across a new mystery or cause a stir with their observations or knowledge.</item>
+        <item>Once per game session the character may regain a token if they get to know a new fascinating person or make an impression with their celebrated laziness.</item>
+        <item>Once per game session the character may regain a token if they find evidence confirming their speculations about the circumstances of a crime or make an impression with their mental acuity or perceptiveness.</item>
+        <item>Once per game session the character may regain a token if they show true valor while defending their ideals or contribute to the growing influence of their religion.</item>
+        <item>Once per game session the character may regain a token if they find good material for an article or provoke comments and a lively discussion with their observations.</item>
+        <item>Once per game session the character may regain a token if they obtain a new trophy or their collection makes an impression on somebody who has not seen it yet.</item>
+        <item>Once per game session the character may regain a token if they learn new facts about their area of interest or make somebody else interested in their research.</item>
+        <item>Once per game session the character may regain a token if they get to a new, hardly accessible place or make an impression on somebody with their collection of souvenirs.</item>
+        <item>Once per game session the character may regain a token if they show heroism and patriotism or make an impression with their medals and stories.</item>
+        <item>Once per game session the character may regain a token if they win a new fan of their works or find themselves in an inspiring situation.</item>
+        <item>Once per game session the character may regain a token if they come into possession of a really valuable item or manage to mislead the authorities.</item>
+        <item>Once per game session the character may regain a token if they find an old grimuar, a spell, or a cult place, or make a strong impression (not necessarily positive) on somebody magical.</item>
+        <item>Once per game session the character may regain a token if they encounter a new being, spell, or phenomenon related to the Astral or make an impression on society thanks to magic.</item>
+        <item>Once per game session the character may regain a token if they compete with a demanding rival or make an impression on the public during a sports contest.</item>
+        <item>Once per game session the character may regain a token if they succeed a risky action thanks to a spectacular use of their equipment or impress their peers using technomagic in everyday life.</item>
+        <item>Once per game session the character may regain a token if they openly challenge and opponent or make an impression with their bravado.</item>
+    </string-array>
+
+    <string-array name="profession_abilities">
+        <item>Perfect use of the surroundings. The character gains +2 Endurance for one chase, once per game session.</item>
+        <item>Once per game session the character can impersonate a fictional or real person. Impersonating someone of a different sex or race requires spending a token (and does not allow a completely ridiculous disguise, e.g. a halfling cannot pretend to be an ogre and vice versa).</item>
+        <item>The hero is capable of using the True Art and starts the game with one power of their choice from the artist\'s list. The character can also buy new spells, powers, and Edges that have the prerequisite: Magical Training.</item>
+        <item>Authority. This character gains +2 Confidence in discussions with lower-born people.</item>
+        <item>Once per game session, after a successful occult or research roll (TN 15) and spending a token, the character is able to reproduce the effect of any spell or power (apart from technomagic) observed during the session. If the roll is unsuccessful, you don\'t have to spend a token and may still use this ability later.</item>
+        <item>Scandalmonger. The character may spend a token to cover up any faux pas, minor or major scandal.</item>
+        <item>Once per game session, during a conflict whose aim is to obtain evidence, a detective may use research to take the opponent\'s markers. Rolls can be made until the first failure. Finishers have to be made with the use of the skill appropriate for a given type of conflict.</item>
+        <item>During conflicts against demons and the undead the character may spend a token to get a +2 bonus to their own or an ally\'s resistance until the end of the scene.</item>
+        <item>Once per game session a journalist may obtain basic information about a chosen person: their age, race, Profession, and major Achievements (all epic and legendary ones, or - if there are none - three most recent ones).</item>
+        <item>Once per game session, during a discussion or combat, a hunter may use survival (without increasing the TN) to take the opponent\'s markers. Rolls can be made until the first failure. Finishers have to be made with the use of the skill appropriate for a given type of conflict.</item>
+        <item>Once per game session the character can invent an item which reproduces the effect of one technomantic spell. The invention is only usable once.</item>
+        <item>Once per game session the character may communicate successfully in an unknown language for one scene.</item>
+        <item>Natural-born leader. The character may spend a token to give a +1 bonus or to add 1d10 to an ally\'s roll.</item>
+        <item>Once per game session the character may completely identify with the main character from their works. Until the end of the scene the character uses an ability of another Archetype when they play a card from their hand.</item>
+        <item>The character may spend a token to obtain any piece of equipment for one scene, regardless of their Wealth level.</item>
+        <item>The hero is trained in ritual magic and starts the game with one power of their choice from the Ritualist\'s list. The character can also buy new spells, powers and Edges that have the prerequisite: Magical Training.</item>
+        <item>The hero is trained in spiritualistic magic and starts the game with one power of their choice from the Spiritualist\'s list. The character can also buy new spells, powers, and Edges that have the prerequisite: Magical Training.</item>
+        <item>Once per session, during a conflict, the character may declare a Finisher after a roll based on athletics.</item>
+        <item>The hero is trained in the modern magic and starts the game with one power of their choice from the technomancer’s list. The character can also buy new spells, powers and Edges that have the prerequisite: magical training.</item>
+        <item>High noon duel. Once per game session (or more than once, for a token each time), if the character acts first, they can begin the fight with an undeclared Finisher.</item>
+    </string-array>
+
+    <string-array name="skill_names">
+        <item>Academics</item>
+        <item>Athletics</item>
+        <item>Bluff</item>
+        <item>Brawl</item>
+        <item>Courage</item>
+        <item>Drive</item>
+        <item>Empathy</item>
+        <item>Expression</item>
+        <item>Firearms</item>
+        <item>Intimidation</item>
+        <item>Larceny</item>
+        <item>Occult</item>
+        <item>Persuassion</item>
+        <item>Research</item>
+        <item>Spot</item>
+        <item>Stealth</item>
+        <item>Streetwise</item>
+        <item>Survival</item>
+        <item>Technics</item>
+    </string-array>
+
+    <string name="new_character">New character</string>
+    <string name="new_character_short">New character</string>
+
+    <string name="new_character_toast">Created new character.</string>
+
+    <string name="discard_character">Remove character</string>
+    <string name="discard_character_short">Remove</string>
+
+    <string name="renew_used">New game session</string>
+    <string name="renew_used_short">New session</string>
+
+    <string name="renewed_toast">Character state renewed.</string>
+
+    <string name="discard_character_question">Discard this character?</string>
+    <string name="discard_character_toast">Character have been removed.</string>
+
+    <string name="attribute_brawn">Brawn</string>
+    <string name="attribute_agility">Agility</string>
+    <string name="attribute_wits">Wits</string>
+    <string name="attribute_composure">Composure</string>
+    <string name="attribute_charisma">Charisma</string>
+
+    <string-array name="attribute_names">
+        <item>@string/attribute_brawn</item>
+        <item>@string/attribute_agility</item>
+        <item>@string/attribute_wits</item>
+        <item>@string/attribute_composure</item>
+        <item>@string/attribute_charisma</item>
+    </string-array>
+
+    <string-array name="attribute_names_short">
+        <item>(Br)</item>
+        <item>(Ag)</item>
+        <item>(Wt)</item>
+        <item>(Com)</item>
+        <item>(Ch)</item>
+    </string-array>
+
+    <string name="name_and_surname">Name and surname</string>
+
+    <string name="weakness">Weakness</string>
+    <string name="prestige">Prestige</string>
+    <string name="ability">Ability</string>
+
+    <string name="attribute">Attribute</string>
+    <string name="wounds">Wounds</string>
+
+    <string name="base">Base</string>
+    <string name="constitution">Constitution</string>
+    <string name="reputation">Reputation</string>
+    <string name="defense">Defense</string>
+    <string name="endurance">Endurance</string>
+    <string name="confidence">Confidence</string>
+    <string name="skill_plus_3">Skill +3</string>
+    <string name="plus_6" translatable="false">+6</string>
+    <string name="plus_9_specialization">+9 (specialization)</string>
+
+    <string name="experience_points">Experience points</string>
+    <string name="wealth">Wealth</string>
+    <string name="current">Current</string>
+    <string name="used">Used</string>
+    <string name="edges_gadgets_companions">Edges, Gadgets and Companions</string>
+
+    <string name="achievements">Achievements</string>
+    <string name="fame_2k10">Well-known 2k10</string>
+    <string name="fame_3k10">Famous 3k10</string>
+    <string name="fame_4k10">Legendary 4k10</string>
+
+    <string name="background">Background</string>
+    <string name="scars">Scars</string>
+    <string name="team">Team members</string>
+
+
+    <string name="about">About</string>
+    <string name="about_short">About</string>
+    <string name="close">Close</string>
+    <string name="export_to_clipboard">Export to clipboard</string>
+    <string name="export_to_clipboard_short">Export</string>
+    <string name="export_failed_toast">Export to clipboard failed</string>
+    <string name="import_from_clipboard">Import from clipboard</string>
+    <string name="import_from_clipboard_short">Import</string>
+    <string name="import_failed_toast">Import failed. Bad data inside clipboard.</string>
+
+
+</resources>

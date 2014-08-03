@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maszyna Różnicowa Wolsung co.</string>
+
+    <string-array name="tabs">
+        <item>Ogólne</item>
+        <item>Umiejętności</item>
+        <item>Atuty</item>
+        <item>Osiągnięcia</item>
+        <item>Opis</item>
+    </string-array>
+
+    <string-array name="nationalities">
+        <item>Akwitania</item>
+        <item>Alfheim</item>
+        <item>Bawencja</item>
+        <item>Czarnoborze</item>
+        <item>Eolia</item>
+        <item>Hrimthorst</item>
+        <item>Jotunheim</item>
+        <item>Koriola</item>
+        <item>Morgowia</item>
+        <item>Pontyfikal</item>
+        <item>Serenissima</item>
+        <item>Scylla i Charybda</item>
+        <item>Slawia</item>
+        <item>Trójmonarchia</item>
+        <item>Westria</item>
+        <item>Wotania</item>
+        <item>Ys</item>
+        <item>Atlantyda</item>
+        <item>Lemuria</item>
+        <item>Sunnir</item>
+        <item>Winlandia</item>
+    </string-array>
+    <string-array name="races">
+        <item>Elf</item>
+        <item>Gnom</item>
+        <item>Krasnolud</item>
+        <item>Człowiek</item>
+        <item>Niziołek</item>
+        <item>Ogr</item>
+        <item>Ork</item>
+        <item>Troll</item>
+    </string-array>
+    <string-array name="race_perks">
+        <item>&lt;b&gt;Marzenia i koszmary&lt;/b&gt;: Wsłuchując się w oddech śpiącej osoby elf potrafi dostrzec przebłyski jej snów i dowiedzieć się, czego śpiący w danym momencie najmocniej pożąda lub czego najbardziej się boi. Dostrojenie do cudzych snów trwa od oko-ło kwadransa, jeśli śpiący jest dla elfa kimś bardzo bliskim, do kilku godzin, gdy jest obcy. Mocy użyć można raz na noc. Elf, który przebywa w cudzej sypialni bez pozwolenia ryzykuje poważny skandal — nakryty na gorącym uczynku traci punkt Reputacji.| &lt;b&gt;Elfia gracja&lt;/b&gt;: W sytuacjach, gdy płynność ruchów jest szczególnie istotna (np. podczas tańca, balansowania na gzymsach, czy przeskakiwania między rozpędzonymi paromobilami), gracz może wydać żeton, by uzyskać premię +5 do rzutu na ekspresję lub wysportowanie.| &lt;b&gt;Taniec z ostrzem&lt;/b&gt;: Gdy elf walczy swoją ulubioną bronią białą (konkretnym egzemplarzem, z którym miał czas się oswoić) podczas wyprowadzania ataków obniża obronę przeciwnika o dwa. Jeżeli bohater straci swoją ulubioną broń i chce przyzwyczaić się do innej musi poświęcić jeden dzień na ćwiczenia i wydać żeton. Gdy spełni te warunki, moc zaczyna z powrotem działać.| &lt;b&gt;Hipnotyczny wzrok&lt;/b&gt;: Niektóre elfy cechują się nieposkromionymi pragnieniami i zupełnym brakiem skrupułów. Gdy czegoś pożądają wszyscy w okolicy zaczynają gorąco tego pragnąć. Kiedy o coś proszą, niewielu potrafi odmówić. Mówi się, że do elfów, które posiadły tę rzadką cechę, zalicza się sama kró-lowa Tytania. Raz na sesję gracz może zwiększyć zakres przerzutu o jeden w dowolnym teście opartym na Charyzmie (co w połączeniu z Charyzmą 8+ i jokerem pozwala przerzucać szóstki).| Żelazo</item>
+        <item>&lt;b&gt;Gnomi mędrzec&lt;/b&gt;: Wychowane w kulcie wiedzy i słowa pisanego gnomy wkraczają w dorosłe życie z olbrzymim zasobem wiedzy. W zetknięciu z problemami, które bywają opisywane w książkach, gracz może wydać żeton, by uzyskać +5 w teście analizy, okultyzmu, wiedzy akademickiej lub wiedzy ogólnej.| &lt;b&gt;Alegorie i przypowieści&lt;/b&gt;: Religijne gnomy znają setki, jeśli nie tysiące przypowieści, alegorii i maksym, które pozwalają przejść przez życie w sposób godny i bezpieczny. Barwna przypowieść, nieszablonowa anegdota lub zaskakująca metafora może uratować skórę w niejednej trudnej sytuacji towarzyskiej.&lt;br&gt;Gracz może wydać żeton, by na całą konfrontację społeczną zwiększyć pewność siebie o dwa.| &lt;b&gt;Sekretne runy&lt;/b&gt;: Największą tajemnicą gnomów, przekazywaną z pokolenia na pokolenie, są runy pozwalające ożywić rzeczy nieożywione. Powiernicy tego sekretu jako jedyni potrafią stworzyć golema bez skomplikowanych procedur technomagicznych.&lt;br&gt;Raz na sesję gnom może stworzyć golema z dowolnej człekokształtnej figury nie większej od ogra — może to być manekin krawiecki, mała gliniana figurka lub zbroja w muzeum. Golem działa przez całą scenę, słuchając rozkazów swego stwórcy.| &lt;b&gt;Numerolog&lt;/b&gt;: Spędzający lata na badaniu znaczenia liczb, run i magicznych symboli, gnom zaczyna dostrzegać znaki we wszystkim, co go otacza. Łatwość i skuteczność, z jaką wprawny numerolog jest w stanie przewidzieć zawirowania losu bywa niepokojąca. Czasami ma się wra-żenie, że za przenikliwymi oczami gnoma wirują tryby i przekładnie skomplikowanej maszyny różnicowej.&lt;br&gt;Gracz może wydać żeton, by obejrzeć karty, któ-re ma w ręce jego przeciwnik, lub w tajemnicy obejrzeć i ułożyć w dowolnej kolejności pięć kart z wierzchu talii.| Nieufność</item>
+        <item>&lt;b&gt;Mrok pod górami&lt;/b&gt;: Wszystkie krasnoludy dobrze widzą w ciemnościach, jednak te, które urodziły się i dorastały pod ziemią, mogą normalnie żyć, pracować, czytać czy pisać bez żadnego źródła światła — w sytuacji, w której przedstawiciele innych ras są zupełnie bezradni.&lt;br&gt;Bohatera nie dotyczą żadne ograniczenia, wynikające ze słabego oświetlenia. W ciemnościach, podczas konfrontacji i testów przeciwstawnych z nie-krasnoludami, wszystkie testy ukrywania się i spostrzegawczości mają ST o 5 mniejsze.| &lt;b&gt;Natchniony mechanik&lt;/b&gt;: Podczas testów związanych z naprawą lub korzystaniem z wszelkiego rodzaju maszyn, gracz może wydać żeton, by uzyskać premię +5 do rzutu. Zdolność działa np. podczas naprawy automatonów, prowadzenia paromobilu czy uruchamiania gadżetów technomagicznych. Nie można jej natomiast użyć w czasie korzystania ze zwykłych urządzeń (np. strzelania, otwierania sejfów czy zastawiania pułapek).| &lt;b&gt;Gadżeciarz&lt;/b&gt;: Postać posiada głębokie i instynktowne zrozumienie maszyn, które pozwala wykonać kilka drobnych przeróbek i zamienić byle barachło w cud techniki. Raz na sesję krasnolud może zmienić dowolny przedmiot z ekwipunku w gadżet, posiadający nie więcej, niż dwie cechy specjalne (0r69, gadżety). Efekty przeróbki utrzymują się przez jedną scenę.| &lt;b&gt;Zimna logika&lt;/b&gt;: postać potrafi zupełnie stłumić uczucia i działać wyłącznie w oparciu o zimną kalkulację.&lt;br&gt;Raz na sesję, krasnolud zyskuje premię +5 do wszystkich testów odwagi i zastraszania. Nie może wówczas korzystać z ekspresji i empatii (efektywna wartość 0, bez przerzutów). Modyfikatory utrzymują się do końca sceny. Moc można aktywować ponownie — wymaga to poświęcenia żetonu na scenę.| Światło słoneczne</item>
+        <item>&lt;b&gt;Ostatkiem sił&lt;/b&gt;: Raz na sesję gracz może zignorować utratę Kondycji, spowodowaną wpływem środowiska — brakiem wody, wycieńczeniem, ekstremalnymi temperaturami, głodem itp. Gracz może również wyjść obronną ręką z kolejnych sytuacji tego typu, wydając jeden żeton za każdy punkt Kondycji, który ma stracić w wyniku nieprzyjaznych warunków naturalnych (s.46, Zagrożenia naturalne).| &lt;b&gt;Swój człowiek&lt;/b&gt;:  Niektórzy ludzie mają w sobie coś, co pozwala im bez trudu nawiązywać znajomości. Jednego dnia piją z marynarzami w heimburskiej spelunie, następnego konwersują przy cygarze z magnatami przemysłowymi, a tydzień później jako pierwsi Wanadyjczycy palą fajkę pokoju z orczym szamanem z Winlandii.&lt;br&gt;Raz na sesję bohater może zdobyć akceptację i sympatię dowolnej grupy społecznej — nie ważne, czy jest to snobistyczny klub, dzikie plemię, gang uliczny czy koło gospodyń. Grupa akceptuje go, dopuszcza do miejsc i wiadomości przeznaczonych dla jej członków oraz wybacza większość niezręczności towarzyskich. Ponieważ tego typu kontakty wymagają stałego podtrzymywania, nie przenoszą się automatycznie z sesji na sesję. Jeśli gracz chce utrzymać znajomości w danej grupie, musi ponownie aktywować tę moc lub wykupić odpowiedni atut.| &lt;b&gt;Bogaty w doświadczenie&lt;/b&gt;: Mało który człowiek spędza życie w miejscu, w którym się urodził. Niespokojna natura daje znać o sobie, więc nawet jeśli bohater nie zwiedził jeszcze całego świata, to na pewno z niejednego piecz chleb jadł. Taka mnogość doświadczeń pozwala sprawnie i skutecznie działać w sytuacjach stresowych.&lt;br&gt;Za każdym razem, gdy gracz uzupełnia karty w ręce (również na początku sesji), dociąga do czterech, po czym odrzuca kartę, która najmniej mu odpowiada.| &lt;b&gt;Szczęście początkującego&lt;/b&gt;: Ludziom łatwo zadać się na łut szczęścia — wielu z nich podchodzi do nowych wyzwań i sytuacji z optymizmem, który w oczach innych ras uchodzi za niefrasobliwość. O dziwo, ludzie nad wyraz często wychodzą obronną ręką z takich sytuacji. Może to przez ten optymizm.&lt;br&gt;Podczas testów opartych na umiejętności, której postać nie ma wyćwiczonej (podstawa 3), gracz może wydać żeton żeby uzyskać +5 zamiast zwyczajnego +1.| Ciekawość to pierwszy stopień do piekła</item>
+        <item>&lt;b&gt;Nieuchwytny&lt;/b&gt;: Niziołków właściwie nie da się ich zaskoczyć, jeżeli nie chcą zostać złapane. Nie bez powodu oddział Alven Yardu, zajmujący się zwalczaniem przestępczości zorganizowanej, zatrudnia tylu niziołków — ogień można zwalczać tylko ogniem.&lt;br&gt;Podczas konfrontacji sprawnościowych, w których niziołek ucieka lub ukrywa się przed nie-niziołkiem, gracz może wydać żeton, by zadeklarować dobicie już po rzucie kośćmi.| &lt;b&gt;Kewni i znajomi&lt;/b&gt;: Popularny dowcip głosi, że pokrewieństwo miedzy niziołkami jest funkcją czasu — po odpowiednio długiej rozmowie na pewno znajdzie się wspólna prostryjeczna babcia kuzyna żony syna któregoś ze szwagrów.&lt;br&gt;Raz na sesję, w sytuacji w której na scenie jest choć jeden niziołek — bohater niezależny, gracz może odrzucić z ręki kartę dowolnego koloru, by rozpoznać w nim dalekiego krewnego lub znajomego i wykorzystać do pomocy. Moc pomocnika zależy od karty: 2-10 oznacza statystę (inteligenta, cwaniaka, brutala lub negocjatora tr466, Obsada), WDK to mocniejsza wersja statysty, As to postać z pulą 2k10, Joker to postać z pulą 3k10. Towarzysz pomaga bohaterowi do końca sceny. Zdolność nie działa na niziołki, które są bezpośrednimi przeciwnikami gracza.| &lt;b&gt;Nadludzki refleks&lt;/b&gt;: Raz na sesję bohater może zignorować utratę Kondycji, wynikającą z nieszczęśliwego wypadku, pułapki lub innej niebezpiecznej sytuacji, w której kluczem do przetrwania jest refleks. Gracz może również ocalić postać przed kolejnymi tego typu zagrożeniami, wydając żeton w momencie, gdy musiałby stracić punkt Kondycji.| &lt;b&gt;Cwaniak&lt;/b&gt;: Bohater zna miasto od podszewki i swobodnie porusza się na granicy prawa.&lt;br&gt;Gracz może wydać żeton, żeby uzyskać w dowolnym teście półświatka i złodziejstwa +5 zamiast zwykłego +1.| Drobny</item>
+        <item>&lt;b&gt;Siłacz&lt;/b&gt;: Ogr może podnieść każdą rzecz swoich rozmiarów lub mniejszą, wyłamać wszystkie zwykłe drzwi, przepchnąć lub przewrócić osobowy paro- mobil — wystarczy deklaracja gracza.&lt;br&gt;Jeżeli podnoszony obiekt jest wykonany z litego kamienia lub metalu, drzwi wzmocniono grubymi sztabami, a paromobil jest furgonetką lub ciężarówką, akcja wciąż jest możliwa, jednak zużywa wszystkie kości w danej rundzie i obniża o jeden Kondycję.&lt;br&gt;Poza zasięgiem pozostają przedmioty większe od ogra, stalowe grodzie i drzwi do sejfów, wozy opancerzone i czołgi itp.| &lt;b&gt;Zwierzęcy magnetyzm&lt;/b&gt;: W epoce pełnej hipokryzji, wysoko zapiętych kołnierzyków i długich sukien, żywiołowe, spontaniczne i imponujące siłą fizyczną ogry mają w sobie „to coś". Wiele arystokratek spogląda na ogrzych twardzieli i zastanawia się, w czym konkretnie lepszy jest delikatny, blady elf czy zimny jak ryba krasnolud.&lt;br&gt;Podczas uwodzenia i w innych sytuacjach, gdy powodzenie akcji zależy od sympatii wzbudzanej przez bohatera, gracz może wydać żeton, by uzyskać premię +5 do rzutu. Zdolność można wykorzystać np. podczas uwodzenia, uzyskiwania informacji, wyplątywania się z kłopotów. Nie działa natomiast w sytuacjach formalnych, podczas walki oraz na większość mężczyzn.| &lt;b&gt;To tylko ogr&lt;/b&gt;: Większość zwykłych ogrów to służący lub robotnicy: lokaje, ochroniarze, pracownicy fizyczni, pomocnicy mechaników, ogrodnicy, rzeźnicy, sprzątacze ulic. Są olbrzymimi sylwetkami, które robią coś nudnego na drugim planie i na które nikt rak na prawdę nie zwraca uwagi.&lt;br&gt;Raz na sesję ogr może, nie zwracając na siebie uwagi, wejść w miejsce, do którego ma dostęp służba. Dopóki nie zachowa się w sposób nie przystający służącemu, nikt się nim nie zainteresuje. To tylko ogr. Przy odrobinie szczęścia bohater może więc poznać najbardziej strzeżone plany geniusza zbrodni, byle tylko przy okazji przyniósł mu popołudniową herbatę. Zdolność przestaje działać, jeśli przeciwnik dowie się z innego źródła, że bohater przebywa na jego terenie lub gdy ogr wejdzie gdzieś, gdzie służba nie ma dostępu.| &lt;b&gt;Nie do zabicia&lt;/b&gt;: Grubokościste, potężnie zbudowane ogry są niezwyciężone w walce wręcz. Potrafią przyjąć grad ciosów, otrząsnąć się i walczyć dalej.&lt;br&gt;Nic dziwnego, że pojedynki bokserskie z udziałem ogrów są tak popularną rozrywką.&lt;br&gt;Aby dobić ogra w walce wręcz potrzeba dwóch podbić więcej niż zwykle.| Nieśmiałość</item>
+        <item>&lt;b&gt;Oko duszy&lt;/b&gt;: Mówi się, że orkowie jednym okiem patrzą na świat fizyczny, a drugim w bezmiar Astra- lu. Nie jest to prawda, jednak bez wątpienia wielu z nich potrafi dostrzec rzeczy, o których nie śniło się wanadyjskim filozofom.&lt;br&gt;Raz na sesję bohater może otworzyć swoje wewnętrzne oko na świat duchów i uzyskać jeden z dwóch niezwykłych efektów. Po pierwsze, spoglądając w oczy trupa, który zmarł w ciągu ostatniej doby, widzi wydarzenia z ostatnich godzin jego życia, z perspektywy zmarłego. Po drugie, patrząc w skupieniu w dowolną lustrzaną powierzchnię (szybę, kałużę, lustro) widzi najważniejsze, najbardziej nasycone emocjami wydarzenie, które odbiło się w niej w ciągu ostatniej doby.| &lt;b&gt;Szlachetni przodkowie&lt;/b&gt;: Orkowie darzą swoich dostojnych zmarłych wielką czcią i szacunkiem. Dzieje się tak nie bez powodu — związki skośnookich z duchami rodziny są bardzo głębokie i osobiste. Przodkowie doradzają swoim potomkom, a w krytycznych sytuacjach umieją zainterweniować bardziej bezpośrednio.&lt;br&gt;Raz na sesję bohater może pozwolić, by opętał go duch któregoś z licznych przodków. Zyskuje w ten sposób wiedzę oraz umiejętności, których sam nie posiada, jednak musi liczyć się z poważnymi efektami ubocznymi. Przodkowie pochodzą zwykle z innej kultury i innych czasów oraz za nic mają konwenanse żywych. Na domiar złego, niektórzy oszołomieni bogactwem fizycznego świata rzucają się w wir rozrywek i fizycznych przyjemności.&lt;br&gt;Gracz wybiera jedną, dowolną umiejętność: do końca sceny wszystkie jej testy oparte są na podstawie 15. Postać pozostaje pod kontrolą gracza, jednak powinien on odgrywać opętanie. Pod koniec sceny duch opuszcza orka, a bohater musi zmierzyć się z konsekwencjami ostatnich wydarzeń: traci punkt Kondycji za wyczerpujący proces opętania oraz punkt Reputacji za wszystkie nieszablonowe zachowania, których dopuścił się przodek.| &lt;b&gt;Szczerość orków&lt;/b&gt;: Orkowie pochodzą z kultury, w której szczerość oznacza mówienie z przekonaniem rzeczy, które rozmówca spodziewa się usłyszeć. Nie ma w tym złej woli. Po prostu dobre samopoczucie rozmówcy i szacunek dla niego przewyższają czasem nad umiłowaniem prawdy i pełną zgodnością z faktami. Niestety, niektórzy Wanadyjczycy zupełnie nie rozumieją tego podejścia, nazywając orków podłymi, dwulicowymi kłamcami.&lt;br&gt;Gracz może wydać żeton, żeby do dowolnego testu blefiŁ i empatii uzyskać +5, zamiast zwyczajowego +1.| &lt;b&gt;Tajne techniki sunirskich mistrzów&lt;/b&gt;: Orkowie od tysiącleci badają magię i w głębi duszy patrzą na najnowsze osiągnięcia wanadyjskich mistyków jak na zabawy zdolnych, choć odrobinę niegrzecznych dzieci. Niektóre z mistycznych technik na stałe wrosły w kulturę orków i pozwalają nawet osobom bez wykształcenia magicznego stawać oko w oko z magami.&lt;br&gt;Każdy wydany żeton na jedną rundę chroni przed wszelkimi negatywnymi efektami mocy, zaklęć oraz innych przejawów magii.| Obcy w obcym kraju</item>
+        <item>&lt;b&gt;Ognioodporny&lt;/b&gt;: Trolle, jak żadna inna rasa, są związane z fizyczną reprezentacją swojego żywiołu. Niektórzy potrafią sięgnąć do wewnętrznych płomieni, by obronić się przed całkiem namacalnym ogniem i gorącem.&lt;br&gt;Raz na sesję bohater uzyskuje jedną na scenę całkowitą odporność na ogień. Jest w stanie przejść przez płomienie nie odnosząc żadnej szkody. Moc można ponownie aktywować w kolejnych scenach, jednak wówczas kosztuje ona jeden żeton za rundę. Zdolność nie chroni przed eksplozjami materiałów wybuchowych, utopieniem w płynnym metalu itp.| &lt;b&gt;Płomienna pasja&lt;/b&gt;: Dopóki troll utrzymuje się na spienionej fali emocji, jest nie do powstrzymania.&lt;br&gt;Podczas ataków w walce wręcz, pościgów, testów zastraszania i ekspresji gracz może wydać żeton, by uzyskać +5 zamiast zwykłego +1. Moc działa tylko, gdy gracz przeznacza wszystkie kości na atak i nie podejmuje żadnych akcji obronnych.| &lt;b&gt;Podgrzanie atmosfery&lt;/b&gt;: Niektóre trolle są jak przegrzane korty — nawet pozornie spokojni emanują grozą. Gracz może wydać żeton, by całemu otoczeniu bohatera zaczęły puszczać nerwy. Wszystkie osoby w promieniu kilku metrów od trolla odejmują 1k10 od najbliższego testu blefu, ukrywania się, zastraszania lub wiedzy.| &lt;b&gt;Słowo honoru&lt;/b&gt;: Trolle wiedzą, że nie mają zbyt wie- .e czasu by zostawić po sobie ślad. Dlatego wielu z nich podchodzi do wszystkiego, czego się podejmą, z obsesyjnym zaangażowaniem. Słowo takich troili jest święte. Jeśli się czegoś podejmą, nie spoczną, dopóki nie wywiążą się z obietnicy.&lt;br&gt;Jeżeli bohater coś przyrzeknie, otrzymuje modyfikator +2 do wszystkich testów, od których bezpośrednio zależy spełnienie obietnicy. Jeśli zawiedzie, automatycznie traci punkt Reputacji.| Ognisty temperament</item>
+    </string-array>
+    <string-array name="race_weaknesses">
+        <item>żelazo. Każdy atak żelazną bronią, wymierzony w elfa, może po fakcie zostać uznany za dobicie.</item>
+        <item>mało kto ufa gnomom. Podczas rzutów, których celem jest uniknięcie skandalu, a także we wszystkich testach społecznych podczas sceny, w której gnom stracił Reputację, dorzucenie dodatkowej kości, zwiększenie wyniku oraz wymiana kart wymaga wydania dwóch żetonów zamiast jednego.</item>
+        <item>światło słoneczne. Gdy krasnolud wystawiony jest na działanie silnego słońca (np. na pustyni lub w słoneczny dzień, gdy nie ma kapelusza i gogli) dorzucenie dodatkowej kości do testu, zwiększenie wyniku oraz wymiana kart wymaga wydania dwóch żetonów zamiast jednego.</item>
+        <item>ciekawość. Podczas konfrontacji społecznych, w których przeciwnik stara się skłonić bohatera do spróbowania czegoś, czego nigdy jeszcze nie próbował, wzięcia udziału w podróży lub przedsięwzięciu, które pozwoli odkryć coś nowego itp. oponent może deklarować dobicia po fakcie.</item>
+        <item>drobny. Podczas walki wręcz z humanoidalnym przeciwnikiem, jeżeli wróg jest ponad dwa razy większy od niziołka (do tej kategorii zaliczają się ogry, trolle i co większe golemy), może on deklarować dobicia po rzucie.</item>
+        <item>nieśmiałość. Gdy ogr bezpośrednio przeciwstawia się komuś dobrze urodzonemu lub o wysokiej pozycji społecznej, dorzucenie dodatkowej kości do testu, zwiększenie wyniku oraz wymiana kart wymaga wydania dwóch żetonów zamiast jednego.</item>
+        <item>obcokrajowiec. W sytuacjach formalnych, gdy znajomość etykiety i zwyczajów jest bardzo istotna (np. podczas audiencji czy eleganckiego obiadu) dorzucenie dodatkowej kości do testu, zwiększenie wyniku oraz wymiana kart wymaga wydania dwóch żetonów zamiast jednego.</item>
+        <item>temperament. Wystarczy, by przeciwnik wygrał test przeciwstawny przeciw odwadze lub empatii albo uzyskał dwa podbicia podczas dowolnej konfrontacji. Może wówczas wydać żeton, by troll wpadł w szał. Troll w szale poświęca wszystkie akcje na atak. Gdy furia się kończy, troll traci punkt Kondycji (po walkach i pościgach) lub Reputacji (po starciach społecznych).</item>
+    </string-array>
+    <string-array name="sexes">
+        <item>Dżentelmen</item>
+        <item>Dama</item>
+    </string-array>
+    <string-array name="archetypes">
+        <item>Eksplorator</item>
+        <item>Ryzykant</item>
+        <item>Salonowiec</item>
+        <item>Śledczy</item>
+    </string-array>
+    <string-array name="archetype_cards">
+        <item>&lt;b&gt;pik&lt;/b&gt; - &lt;i&gt;doświadczenie&lt;/i&gt;; elementy oraz okoliczności, w których doświadczenie daje porzewagę nad przeciwnikiem, wiedza o słabych stronach potworów czy zwyczajach obcych kultur.&lt;br&gt;&lt;b&gt;kier&lt;/b&gt; - &lt;i&gt;przetrwanie&lt;/i&gt;; elementy i okoliczności pozwalające uniknąć obrażeń, choroby i szkodliwego wpływu otoczenia albo przetrwać w nieprzyjaznym środowisku.&lt;br&gt;&lt;b&gt;karo&lt;/b&gt; - &lt;i&gt;odkrycia&lt;/i&gt;; elementy, które pozwalają zdobyć i wykorzystać rozgłos - pamiątki z podróży, wynalazki itp.&lt;br&gt;&lt;b&gt;trefl&lt;/b&gt; - &lt;i&gt;orientacja&lt;/i&gt;; elementy, które pomagają dotrzeć do celu, wyznaczyć trasę, znaleźć drogę, odnależć zaginione miejsce itp.</item>
+        <item>&lt;b&gt;pik&lt;/b&gt; - &lt;i&gt;dywersja&lt;/i&gt;; element otoczenia, który umożliwia zaskoczenie przeciwnika, rozproszenie go, odwrócenie uwagi itp.&lt;br&gt;&lt;b&gt;kier&lt;/b&gt; - &lt;i&gt;osłona&lt;/i&gt;; sposób na uniknięcie wykrycia, schowek, miejsce w którym można ukryć przedmiot itp.&lt;br&gt;&lt;b&gt;karo&lt;/b&gt; - &lt;i&gt;narzędzia&lt;/i&gt;; sposób na pokonanie fizycznej przeszkody, pułapki, zamka, zabezpieczenia itp.&lt;br&gt;&lt;b&gt;trefl&lt;/b&gt; - &lt;i&gt;transport&lt;/i&gt;; elementy związane z ruchem: pojazdy, zjeżdżalnie, alternatywna trasa, sposób opuszczenia sceny itp.</item>
+        <item>&lt;b&gt;pik&lt;/b&gt; - &lt;i&gt;intrygi&lt;/i&gt;; rozpuszczanie i poznawanie plotek, gafy towarzyskie, które przytrafiają się konkurentom, okazja do podsłuchania ważnej informacji, kontakty w prasie itp.&lt;br&gt;&lt;b&gt;kier&lt;/b&gt; - &lt;i&gt;emocje&lt;/i&gt;; rodzina i przyjaciele gotowi pospieszyć z pomocą, okazje pozwalające wmieszać się w tłum: np. śluby i pogrzeby, przebłyski sympatii lub tłumionych uczuć zmiękczające czyjeś serce itp.&lt;br&gt;&lt;b&gt;karo&lt;/b&gt; - &lt;i&gt;formalności&lt;/i&gt;; metody ominięcia procedur, pomocni policjanci i żołnierze, przydatne kontakty biznesowe lub okazje do zrobienia interesów itp.&lt;br&gt;&lt;b&gt;trefl&lt;/b&gt; - &lt;i&gt;rozrywka&lt;/i&gt;; kontakty w bohemie, sposoby wejścia na imprezy lub do lokali, elementy pomagające w występach publicznych itp.</item>
+        <item>&lt;b&gt;pik&lt;/b&gt; - &lt;i&gt;podejrzani&lt;/i&gt;; poszlaki i okoliczności pozwalające poznać pochodzenie, zawód, charakter i przeszłość osoby, przewidzieć jej działania, zrozumieć motywy itp.&lt;br&gt;&lt;b&gt;kier&lt;/b&gt; - &lt;i&gt;renoma&lt;/i&gt;; poszlaki i okoliczności pozwalające przykuć uwagę publiki, wygłosić przemowę, z zimną krwią stawić czołazagrożeniu, podkreślić i wykorzystać opinię,którą cieszy się postać itp.&lt;br&gt;&lt;b&gt;karo&lt;/b&gt; - &lt;i&gt;przedmioty&lt;/i&gt;; poszlaki i okoliczności pozwalające poznać pochodzenie, cechy, historię przedmiotu, znaleźć narzędzie zbrodni, zrozumieć zasady działąnia, przewidzieć usterkę itp.&lt;br&gt;&lt;b&gt;trefl&lt;/b&gt; - &lt;i&gt;czas i miejsce&lt;/i&gt;; poszlaki pozwalające odtworzyć sekwencję wydarzeń, zrozumieć okoliczności zbrodni, poznać odpowiedzi na pytania: gdzie, dokąd i kiedy?</item>
+    </string-array>
+    <string-array name="professions">
+        <item>Agent specjalny</item>
+        <item>Aktor</item>
+        <item>Artysta</item>
+        <item>Arystokrata</item>
+        <item>Badacz</item>
+        <item>Bon vivant</item>
+        <item>Detektyw</item>
+        <item>Duchowny</item>
+        <item>Dziennikarz</item>
+        <item>Myśliwy</item>
+        <item>Naukowiec</item>
+        <item>Odkrywca</item>
+        <item>Oficer</item>
+        <item>Pisarz</item>
+        <item>Przestępca</item>
+        <item>Rytualista</item>
+        <item>Spirytysta</item>
+        <item>Sportowiec</item>
+        <item>Technomag</item>
+        <item>Zabijaka</item>
+    </string-array>
+    <string-array name="professions_prestige">
+        <item>Raz na sesję postać może odzyskać żeton, jeżeli zdobędzie informacje ważne dla swojej organizacji lub podejmie duże ryzyko, by pokrzyżować plany przeciwników.</item>
+        <item>Raz na sesję może odzyskać żeton, jeżeli wykorzysta w życiu umiejętności zdobyte na planie lub ucieszy swoich fanów (np. rozdając autografy lub udzielając wywiadu).</item>
+        <item>Raz na sesję postać może odzyskać żeton, gdy przeżyje coś szczególnie inspirującego (bardzo różnego od codziennych doświadczeń) lub wywoła szczere emocje swoją sztuką lub zachowaniem.</item>
+        <item>Raz na sesję postać może odzyskać żeton jeżeli zyska przewagę nad konkurentem politycznym lub biznesowym albo zrobi wrażenie swoją pozycją społeczną.</item>
+        <item>Raz na sesję postać może odzyskać żeton, jeżeli natrafi na nową tajemnicę lub wzbudzi poruszenie swoimi obserwacjami i wiedzą.</item>
+        <item>Raz na sesję postać może odzyskać żeton, jeżeli pozna nową, fascynującą osobę bądź zrobi wrażenie swoim celebrowanym lenistwem.</item>
+        <item>Raz na sesję postać może odzyskać żeton, jeżeli potwierdzi swoje przypuszczenia co do okoliczności przestępstwa lub zrobi wrażenie bystrością umysłu i przenikliwością.</item>
+        <item>Raz na sesję postać może odzyskać żeton, jeżeli wykaże się bohaterstwem w obronie ideałów lub przyczyni do zwiększenia wpływów swojej religii.</item>
+        <item>Raz na sesję postać może odzyskać żeton, jeżeli zdobędzie materiał na artykuł lub wzbudzi komentarze i żywe dyskusje swoimi spostrzeżeniami.</item>
+        <item>Raz na sesję postać może odzyskać żeton, jeżeli zdobędzie nowe trofeum lub zrobi wrażenie swoją kolekcją na kimś, kto jej jeszcze nie widział.</item>
+        <item>Raz na sesję postać może odzyskać żeton, gdy pozna nowe fakty z interesującej ją dziedziny lub zainteresuje kogoś swoimi badaniami.</item>
+        <item>Raz na sesję postać może odzyskać żeton, gdy dotrze w trudno dostępne miejsce, w którym jeszcze nie była, lub zrobi wrażenie swoją kolekcją pamiątek i ciekawostek.</item>
+        <item>Raz na sesję postać może odzyskać żeton, jeżeli wykaże się bohaterstwem i patriotyzmem lub zrobi wrażenie swoimi odznaczeniami i opowieściami.</item>
+        <item>Raz na sesję postać może odzyskać żeton, jeżeli zdobędzie nowego miłośnika swojej twórczości lub przeżyje inspirującą sytuację rodem z powieści przygodowej.</item>
+        <item>Raz na sesję postać może odzyskać żeton, jeżeli uda jej się zdobyć przedmiot o wielkiej wartości lub wprowadzić w błąd stróżów prawa.</item>
+        <item>Raz na sesję postać może odzyskać żeton, jeżeli odkryje stary grimuar, zaklęcie lub miejsce kultu albo dzięki rytualnej magii zrobi na kimś silne (niekoniecznie pozytywne) wrażenie.</item>
+        <item>Raz na sesję postać może odzyskać żeton, jeżeli zetknie się z nowym bytem, zaklęciem lub fenomenem związanym z Astralem albo przy pomocy magii zrobi wrażenie w towarzystwie.</item>
+        <item>Raz na sesję postać może odzyskać żeton, jeżeli zmierzy się z godnym siebie przeciwnikiem lub zrobi wrażenie na publice podczas występów sportowych.</item>
+        <item>Raz na sesję postać może odzyskać żeton, jeżeli osiągnie sukces dzięki spektakularnemu użyciu swojego sprzętu lub wprawi kogoś w osłupienie użyciem technomagii w życiu codziennym.</item>
+        <item>Raz na sesję postać może odzyskać żeton, jeżeli otwarcie stawi czoła przeciwnikowi lub zrobi wrażenie swoją brawurą.</item>
+    </string-array>
+    <string-array name="profession_abilities">
+        <item>Doskonałe wykorzystanie otoczenia. Na czas jednego pościgu, +2 do wytrwałości, raz na sesję.</item>
+        <item>Raz na sesję bohater może podszywać się pod konkretną lub wymyśloną postać. Wcielenie się w osobę innej rasy lub płci wymaga wydania żetonu (i nie pozwala na niedorzeczne przebranie, np. niziołek nie zdoła udawać ogra i vice versa).</item>
+        <item>Postać potrafi posługiwać się Sztuką. Wybiera jedną moc artysty, może też wykupić zaklęcia i kolejne moce w ramach przysługujących jej Atutów.</item>
+        <item>Autorytet. W konfrontacjach z niżej urodzonymi pewność siebie +2.</item>
+        <item>Raz na sesję, po udanym teście &lt;i&gt;okultyzmu&lt;/i&gt; lub &lt;i&gt;analizy&lt;/i&gt; o ST 15 i wydaniu żenutu, bohater może odtworzyć efekt dowolnego zaobserwowanego podczas sesji zaklęcia lub mocy (za wyjątkiem technomagicznej). Jeżeli test się nie uda, nie wydajesz żetonu i nie tracisz szansy wykorzystania zdolności w czasie tej sesji.</item>
+        <item>Skandalista. Bohater może wydać żeton, by zatuszować dowolną niezręczność towarzyską, drobny lub poważny skandal.</item>
+        <item>Raz na sesję postać może odzyskać żeton, jeżeli potwierdziswoje przypuszczenia co do okoliczności przestępstwa lub zrobi wrażenie bystrością umysłu i przenikliwością.</item>
+        <item>Podczas konfrontacji z demonami i nieumarłymi bohater może wydać żetan by do końca sceny zwiększyć o +2 obronę, pewność siebie lub wytrwałość swoją, bądź sojusznika.</item>
+        <item>Raz na sesję, dziennikarz może zdobyć podstawowe dane o wybranej osobie: poznać jej wiek, rasę, profesję i najważniejsze osiągnięcia (wszystkie epickie i legendarne, a jeśli takich nie ma, trzy zdobyte ostatnio).</item>
+        <item>Raz na sesję, podczas dyskusji lub walki, myśliwy może bez zwiększania ST użyć umiejętności &lt;i&gt;przyroda&lt;/i&gt; do zdejmowania znaczników odporności. Testy można wykonywać do pierwszego nieudanego rzutu. Dobicie należy przeprowadzić przypomocy umiejętności właściwej dla toczonej konfrontacji.</item>
+        <item>Raz na sesję bohater może dokonać wynalazku, który odtwarza efekt dowolnego zaklęcia technomanty. Wynalazek jest jednorazowego użytku.</item>
+        <item>Raz na sesję, przez jedną scenę bohater może dogadać się w dowolnym nieznanym języku.</item>
+        <item>Urodzony przywódca. Może wydać żeton, by dodać +1 lub dorzucić kolejną 1k10 podczas testu wykonywanego przez sojusznika.</item>
+        <item>Raz na sesję postać może kompletnie utożsamić się z głównym bohaterem swojej twórczości. Do końca sceny, gdy bahoter zagrywa kartę z ręki, korzysta ze zdolności innego archetypu.</item>
+        <item>Postać może wydać żeton, aby na jedną scenę zdobyć dowolny ekwipunek, niezależnieod wymaganego progu Bogactwa.</item>
+        <item>Bohater potrafi posługiwać się magią rytualną. Wybiera jedną moc rytualisty, może również wykupić zaklęcia i kolejne moce w ramach przysługujących mu Atutów.</item>
+        <item>Bohater potrafi posługiwać się magią spyrytystyczną. Wybiera jedną moc spirytysty, może również wykupić zaklęcia i kolejne moce w ramach przysługujących mu Atutów.</item>
+        <item>Raz na sesję, w czasie konfrontacji lub akcji opartej na wysportowaniu postać może zadeklarować dobicie po rzucie kostkami.</item>
+        <item>Bohater potrafi posługiwać się nowoczesną magią. Wybiera jedną mmoc technomaga, może również wykupić zaklęcia i kolejne moce wramach przysługujących mu Atutów.</item>
+        <item>Pojedynek w samo południe. Raz na sesję (i ponownie, za żeton), jeżeli jako pierwszy wykonuje akcję, może rozpocząć walkę od niedeklarowanego dobicia.</item>
+    </string-array>
+    <string-array name="skill_names">
+        <item>Wiedza akademicka</item>
+        <item>Wysportowanie</item>
+        <item>Blef</item>
+        <item>Walka</item>
+        <item>Odwaga</item>
+        <item>Pojazdy</item>
+        <item>Empatia</item>
+        <item>Ekspresja</item>
+        <item>Strzelanie</item>
+        <item>Zastraszanie</item>
+        <item>Złodziejstwo</item>
+        <item>Okultyzm</item>
+        <item>Perswazja</item>
+        <item>Analiza</item>
+        <item>Spostrzegawczość</item>
+        <item>Ukrywanie się</item>
+        <item>Półświatem</item>
+        <item>Przyroda</item>
+        <item>Technika</item>
+    </string-array>
+
+    <string name="new_character">Nowa postać</string>
+    <string name="new_character_short">Nowa postać</string>
+    <string name="new_character_toast">Utworzono nową postać.</string>
+    <string name="discard_character">Usuń postać</string>
+    <string name="discard_character_short">Usuń</string>
+    <string name="renew_used">Nowa sesja</string>
+    <string name="renew_used_short">Nowa sesja</string>
+    <string name="renewed_toast">Stan postaci odnowiony.</string>
+    <string name="discard_character_question">Usunąć tą postać?</string>
+    <string name="discard_character_toast">Postać została usunięta.</string>
+
+    <string name="attribute_brawn">Krzepa</string>
+    <string name="attribute_agility">Zręczność</string>
+    <string name="attribute_wits">Przenikliwość</string>
+    <string name="attribute_composure">Opanowanie</string>
+    <string name="attribute_charisma">Charyzma</string>
+    
+    <string-array name="attribute_names_short">
+        <item>(Krz)</item>
+        <item>(Zr)</item>
+        <item>(Prz)</item>
+        <item>(Op)</item>
+        <item>(Cha)</item>
+    </string-array>
+
+    <string name="name_and_surname">Imię i nazwisko</string>
+
+    <string name="weakness">Słabość</string>
+    <string name="prestige">Prestiż</string>
+    <string name="ability">Zdolność</string>
+    
+    <string name="attribute">Atrybut</string>
+    <string name="wounds">Rany</string>
+    
+    <string name="base">Bazowo</string>
+    <string name="constitution">Kondycja</string>
+    <string name="reputation">Reputacja</string>
+    <string name="defense">Obrona</string>
+    <string name="endurance">Wytrzymałość</string>
+    <string name="confidence">Pewność siebie</string>
+    <string name="skill_plus_3">Umiejętność +3</string>
+    <string name="plus_9_specialization">+9 (specjalizacja)</string>
+    
+    <string name="experience_points">Punkty doświadczenia</string>
+    <string name="wealth">Bogactwo</string>
+    <string name="current">Bieżące</string>
+    <string name="used">Użyte</string>
+    <string name="edges_gadgets_companions">Atuty, Gadżety i Sojusznicy</string>
+    
+    <string name="achievements">Osiągnięcia</string>
+    <string name="fame_2k10">Znany 2k10</string>
+    <string name="fame_3k10">Sławny 3k10</string>
+    <string name="fame_4k10">Legenda 4k10</string>
+    
+    <string name="background">Opis postaci</string>
+    <string name="scars">Blizny</string>
+    <string name="team">Drużyna</string>
+
+    <string name="about">O programie</string>
+    <string name="about_short">O programie</string>
+    <string name="close">Zamknij</string>
+
+    <string name="export_to_clipboard">Skopiuj do schowka</string>
+    <string name="export_to_clipboard_short">Do schowka</string>
+    <string name="export_failed_toast">Kopiowanie do schowka nie powiodło się</string>
+    <string name="import_from_clipboard">Importuj ze schowka</string>
+    <string name="import_from_clipboard_short">Ze schowka</string>
+    <string name="import_failed_toast">Import zawiódł. Zły format danych w schowku.</string>
+
+
+</resources>
