@@ -4,15 +4,6 @@ android {
     compileSdkVersion 19
     buildToolsVersion "19.1.0"
 
-    signingConfigs {
-        release {
-            storeFile file("###removed###")
-            storePassword "###removed###"
-            keyAlias "###removed###"
-            keyPassword "###removed###"
-        }
-    }
-
     defaultConfig {
         applicationId "eu.mrogalski.wolsung"
         minSdkVersion 7
@@ -24,10 +15,6 @@ android {
         release {
             runProguard false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            signingConfig signingConfigs.release
-        }
-        debug {
-            signingConfig signingConfigs.release
         }
     }
 }
